@@ -1,0 +1,3682 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-16T16:43:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/226927",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Кунцево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Кунцево",
+        "name:ca": "Districte de Kúntsevo",
+        "name:en": "Kuntsevo District",
+        "name:ru": "район Кунцево",
+        "name:uk": "Район Кунцеве",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q155102",
+        "wikipedia": "ru:Кунцево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1678451,
+          55.758995
+        ]
+      },
+      "id": "relation/226927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/240229",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Крылатское",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Крылатское",
+        "name:be": "Крылацкае",
+        "name:en": "Krylatskoye District",
+        "name:ru": "район Крылатское",
+        "name:uk": "Район Крилатське",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "omkmo:code": "42",
+        "omkte:code": "806",
+        "type": "boundary",
+        "wikidata": "Q474850",
+        "wikipedia": "ru:Крылатское (район)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4150255,
+          55.7610767
+        ]
+      },
+      "id": "relation/240229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/364001",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Мещанский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Мещанский район",
+        "name:en": "Meshchansky District",
+        "name:ru": "Мещанский район",
+        "name:uk": "Міщанський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "omkmo:code": "58",
+        "omkte:code": "105",
+        "type": "boundary",
+        "wikidata": "Q2626320",
+        "wikipedia": "ru:Мещанский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6286446,
+          55.7780808
+        ]
+      },
+      "id": "relation/364001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/364551",
+        "addr:country": "RU",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Сокольники",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Сокольники",
+        "name:en": "Sokolniki District",
+        "name:ru": "район Сокольники",
+        "name:uk": "Район Сокільники",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "omkmo:code": "097",
+        "omkte:code": "0418",
+        "type": "boundary",
+        "wikidata": "Q1935566",
+        "wikipedia": "ru:Сокольники (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6778063,
+          55.8031395
+        ]
+      },
+      "id": "relation/364551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/380704",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Коммунарка",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4615367,
+          55.5676547
+        ]
+      },
+      "id": "relation/380704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/380705",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Филимонковский район",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2602368,
+          55.5472452
+        ]
+      },
+      "id": "relation/380705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/380708",
+        "addr:country": "RU",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Внуково",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2307146,
+          55.6072054
+        ]
+      },
+      "id": "relation/380708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/428431",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Хорошёво-Мнёвники",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Хорошёво-Мнёвники",
+        "name:en": "Khoroshyovo-Mnyovniki District",
+        "name:ru": "район Хорошёво-Мнёвники",
+        "name:uk": "Район Хорошово-Мневники",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q630277",
+        "wikipedia": "ru:Хорошёво-Мнёвники",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4625159,
+          55.7675481
+        ]
+      },
+      "id": "relation/428431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/431464",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Щукино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Щукино",
+        "name:en": "Shchukino District",
+        "name:ru": "район Щукино",
+        "name:uk": "Район Щукіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q598088",
+        "wikipedia": "ru:Щукино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4749615,
+          55.8015358
+        ]
+      },
+      "id": "relation/431464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/434560",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Строгино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Строгино",
+        "name:be": "Страгіно",
+        "name:en": "Strogino District",
+        "name:ru": "район Строгино",
+        "name:uk": "Район Строгіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2625675",
+        "wikipedia": "ru:Строгино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4074372,
+          55.8000359
+        ]
+      },
+      "id": "relation/434560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/442733",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Митино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Митино",
+        "name:en": "Mitino District",
+        "name:eo": "rajono Mitino",
+        "name:ru": "район Митино",
+        "name:uk": "Район Мітіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2625558",
+        "wikipedia": "ru:Митино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3640944,
+          55.8448232
+        ]
+      },
+      "id": "relation/442733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/442741",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Куркино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Куркино",
+        "name:en": "Kurkino District",
+        "name:ru": "район Куркино",
+        "name:uk": "Район Куркіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q669235",
+        "wikipedia": "ru:Куркино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3963609,
+          55.8919009
+        ]
+      },
+      "id": "relation/442741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/444812",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Кузьминки",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Кузьминки",
+        "name:en": "Kuzminki District",
+        "name:ru": "район Кузьминки",
+        "name:uk": "Район Кузьминки",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2360885",
+        "wikipedia": "ru:Кузьминки (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7754652,
+          55.698515
+        ]
+      },
+      "id": "relation/444812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/444908",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Донской",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Донской район",
+        "name:be": "Данскі раён",
+        "name:en": "Donskoy District",
+        "name:ru": "Донской район",
+        "name:uk": "Донський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "website": "https://donskoy.mos.ru",
+        "wikidata": "Q2216653",
+        "wikipedia": "ru:Донской район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6055039,
+          55.7052563
+        ]
+      },
+      "id": "relation/444908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445273",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Левобережный",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Левобережный",
+        "name:en": "Levoberezhny District",
+        "name:ru": "район Левобережный",
+        "name:uk": "Район Лівобережний",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366787",
+        "wikipedia": "ru:Левобережный (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4666449,
+          55.8656417
+        ]
+      },
+      "id": "relation/445273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445274",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ховрино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Ховрино",
+        "name:en": "Khovrino District",
+        "name:eo": "Ĥovrino",
+        "name:ru": "район Ховрино",
+        "name:uk": "Район Ховрине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626866",
+        "wikipedia": "ru:Ховрино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4883436,
+          55.8689109
+        ]
+      },
+      "id": "relation/445274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445275",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Западное Дегунино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Западное Дегунино",
+        "name:en": "Zapadnoye Degunino District",
+        "name:ru": "район Западное Дегунино",
+        "name:uk": "Район Західне Дегуніне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626861",
+        "wikipedia": "ru:Западное Дегунино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5203023,
+          55.8705869
+        ]
+      },
+      "id": "relation/445275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445276",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Тимирязевский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Тимирязевский район",
+        "name:en": "Timiryazevsky District",
+        "name:ru": "Тимирязевский район",
+        "name:uk": "Тимірязівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2365771",
+        "wikipedia": "ru:Тимирязевский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.558254,
+          55.8272987
+        ]
+      },
+      "id": "relation/445276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445277",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Коптево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Коптево",
+        "name:en": "Koptevo District",
+        "name:ru": "район Коптево",
+        "name:uk": "Район Коптєво",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366877",
+        "wikipedia": "ru:Коптево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.532688,
+          55.8301266
+        ]
+      },
+      "id": "relation/445277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445278",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Дмитровский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Дмитровский район",
+        "name:en": "Dmitrovsky District",
+        "name:ru": "Дмитровский район",
+        "name:uk": "Дмитрівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367500",
+        "wikipedia": "ru:Дмитровский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5241163,
+          55.8901972
+        ]
+      },
+      "id": "relation/445278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445279",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Северное Тушино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Северное Тушино",
+        "name:be": "Паўночнае Тушына",
+        "name:en": "North Tushino District",
+        "name:ru": "район Северное Тушино",
+        "name:uk": "Район Північне Тушине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367469",
+        "wikipedia": "ru:Северное Тушино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4272995,
+          55.8641612
+        ]
+      },
+      "id": "relation/445279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445280",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Сокол",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Сокол",
+        "name:en": "Sokol District",
+        "name:ru": "район Сокол",
+        "name:uk": "Район Сокіл",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2704327",
+        "wikipedia": "ru:Сокол (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5036484,
+          55.8032088
+        ]
+      },
+      "id": "relation/445280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445281",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Савёловский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Савёловский район",
+        "name:en": "Savyolovsky District",
+        "name:ru": "Савёловский район",
+        "name:uk": "Савелівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366807",
+        "wikipedia": "ru:Савёловский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5674954,
+          55.7998486
+        ]
+      },
+      "id": "relation/445281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445282",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Отрадное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Отрадное",
+        "name:en": "Otradnoye District",
+        "name:ru": "район Отрадное",
+        "name:uk": "Район Відрадне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2360436",
+        "wikipedia": "ru:Отрадное (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6032398,
+          55.863408
+        ]
+      },
+      "id": "relation/445282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445283",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Молжаниновский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Молжаниновский район",
+        "name:en": "Molzhaninovsky District",
+        "name:ru": "Молжаниновский район",
+        "name:uk": "Молжанінівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2361002",
+        "wikipedia": "ru:Молжаниновский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3768893,
+          55.9327428
+        ]
+      },
+      "id": "relation/445283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445284",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Северный",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Северный",
+        "name:en": "Severny District",
+        "name:ru": "район Северный",
+        "name:uk": "Район Північний",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q780455",
+        "wikipedia": "ru:Северный (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.549971,
+          55.9324445
+        ]
+      },
+      "id": "relation/445284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445285",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Восточное Дегунино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Восточное Дегунино",
+        "name:en": "Vostochnoye Degunino District",
+        "name:ru": "район Восточное Дегунино",
+        "name:uk": "Район Східне Дегуніне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366730",
+        "wikipedia": "ru:Восточное Дегунино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5588631,
+          55.8761025
+        ]
+      },
+      "id": "relation/445285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445297",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Головинский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Головинский район",
+        "name:en": "Golovinsky District",
+        "name:ru": "Головинский район",
+        "name:uk": "Головинський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1017756",
+        "wikipedia": "ru:Головинский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5098231,
+          55.8524288
+        ]
+      },
+      "id": "relation/445297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445298",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Беговой",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Беговой",
+        "name:en": "Begovoy District",
+        "name:ru": "район Беговой",
+        "name:uk": "Район Біговий",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626875",
+        "wikipedia": "ru:Беговой (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5647533,
+          55.783423
+        ]
+      },
+      "id": "relation/445298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/445299",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Хорошёвский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Хорошёвский район",
+        "name:en": "Khoroshyovsky District",
+        "name:ru": "Хорошёвский район",
+        "name:uk": "Хорошівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366712",
+        "wikipedia": "ru:Хорошёвский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5294253,
+          55.7817913
+        ]
+      },
+      "id": "relation/445299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446078",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Войковский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Войковский район",
+        "name:en": "Voykovsky District",
+        "name:ru": "Войковский район",
+        "name:uk": "Войківський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367430",
+        "wikipedia": "ru:Войковский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4966466,
+          55.8280428
+        ]
+      },
+      "id": "relation/446078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446079",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Аэропорт",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Аэропорт",
+        "name:ca": "Districte de l'Aeroport",
+        "name:en": "Aeroport District",
+        "name:ru": "район Аэропорт",
+        "name:uk": "Район Аеропорт",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367414",
+        "wikipedia": "ru:Аэропорт (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5427527,
+          55.8005455
+        ]
+      },
+      "id": "relation/446079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446080",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Южное Тушино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Южное Тушино",
+        "name:be": "Паўднёвае Тушына",
+        "name:en": "Yuzhnoye Tushino District",
+        "name:ru": "район Южное Тушино",
+        "name:uk": "Район Південне Тушине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366829",
+        "wikipedia": "ru:Южное Тушино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4310859,
+          55.8423729
+        ]
+      },
+      "id": "relation/446080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446081",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Покровское-Стрешнево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Покровское-Стрешнево",
+        "name:en": "Pokrovskoye-Streshnevo District",
+        "name:ru": "район Покровское-Стрешнево",
+        "name:uk": "Район Покровське-Стрешневе",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367649",
+        "wikipedia": "ru:Покровское-Стрешнево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4439023,
+          55.824637
+        ]
+      },
+      "id": "relation/446081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446082",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бескудниковский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Бескудниковский район",
+        "name:en": "Beskudnikovsky District",
+        "name:ru": "Бескудниковский район",
+        "name:uk": "Бескудніковський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q425824",
+        "wikipedia": "ru:Бескудниковский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.551715,
+          55.8637784
+        ]
+      },
+      "id": "relation/446082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446083",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Алтуфьевский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "image": "http://commons.wikimedia.org/wiki/Category:Altufievsky",
+        "name": "Алтуфьевский район",
+        "name:en": "Altufyevsky District",
+        "name:ru": "Алтуфьевский район",
+        "name:uk": "Алтуфійський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366768",
+        "wikipedia": "ru:Алтуфьевский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5874729,
+          55.8784178
+        ]
+      },
+      "id": "relation/446083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446084",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Лианозово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "image": "http://commons.wikimedia.org/wiki/Category:Lianozovo",
+        "name": "район Лианозово",
+        "name:en": "Lianozovo District",
+        "name:ru": "район Лианозово",
+        "name:uk": "Район Ліанозове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367455",
+        "wikipedia": "ru:Лианозово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5639055,
+          55.9003034
+        ]
+      },
+      "id": "relation/446084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446085",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бибирево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "image": "http://commons.wikimedia.org/wiki/Category:Bibirevo",
+        "name": "район Бибирево",
+        "name:en": "Bibirevo District",
+        "name:ru": "район Бибирево",
+        "name:uk": "Район Бібірево",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367665",
+        "wikipedia": "ru:Бибирево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6153718,
+          55.896366
+        ]
+      },
+      "id": "relation/446085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446086",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Северное Медведково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Северное Медведково",
+        "name:en": "Severnoye Medvedkovo District",
+        "name:ru": "район Северное Медведково",
+        "name:uk": "Район Північне Медведкове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367583",
+        "wikipedia": "ru:Северное Медведково",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6524533,
+          55.8872227
+        ]
+      },
+      "id": "relation/446086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446087",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Южное Медведково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Южное Медведково",
+        "name:en": "Yuzhnoye Medvedkovo District",
+        "name:ru": "район Южное Медведково",
+        "name:uk": "Район Південне Медведкове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366143",
+        "wikipedia": "ru:Южное Медведково",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6364499,
+          55.8735458
+        ]
+      },
+      "id": "relation/446087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446111",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Фили-Давыдково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Фили-Давыдково",
+        "name:en": "Fili-Davydkovo District",
+        "name:ru": "район Фили-Давыдково",
+        "name:uk": "Район Філі-Давидково",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963181",
+        "wikipedia": "ru:Фили-Давыдково",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4682611,
+          55.7265061
+        ]
+      },
+      "id": "relation/446111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446112",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Филёвский Парк",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Филёвский Парк",
+        "name:de": "Rajon Filjowski Park",
+        "name:en": "Filyovsky Park District",
+        "name:ru": "район Филёвский Парк",
+        "name:uk": "Район Філівський Парк",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q998027",
+        "wikipedia": "ru:Филёвский Парк (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4745038,
+          55.7506043
+        ]
+      },
+      "id": "relation/446112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446114",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Дорогомилово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Дорогомилово",
+        "name:en": "Dorogomilovo District",
+        "name:ru": "район Дорогомилово",
+        "name:uk": "Район Дорогомилове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2358875",
+        "wikipedia": "ru:Дорогомилово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5318932,
+          55.7382256
+        ]
+      },
+      "id": "relation/446114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446115",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Раменки",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Раменки",
+        "name:en": "Ramenki District",
+        "name:ru": "район Раменки",
+        "name:uk": "Район Раменки",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2359096",
+        "wikipedia": "ru:Раменки (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5127753,
+          55.707527
+        ]
+      },
+      "id": "relation/446115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446116",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Солнцево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Солнцево",
+        "name:en": "Solntsevo District",
+        "name:uk": "Район Солнцеве",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q486720",
+        "wikipedia": "ru:Солнцево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4123507,
+          55.6534782
+        ]
+      },
+      "id": "relation/446116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446117",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ново-Переделкино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Ново-Переделкино",
+        "name:en": "Novo-Peredelkino District",
+        "name:uk": "Ново-Переделкіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2364381",
+        "wikipedia": "ru:Ново-Переделкино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.374155,
+          55.6419103
+        ]
+      },
+      "id": "relation/446117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446271",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ярославский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Ярославский район",
+        "name:en": "Yaroslavsky District",
+        "name:ru": "Ярославский район",
+        "name:uk": "Ярославський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367611",
+        "wikipedia": "ru:Ярославский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6991153,
+          55.8621231
+        ]
+      },
+      "id": "relation/446271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/446272",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ростокино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Ростокино",
+        "name:en": "Rostokino District",
+        "name:ru": "район Ростокино",
+        "name:uk": "Район Ростокине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366666",
+        "wikipedia": "ru:Ростокино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6517951,
+          55.8350693
+        ]
+      },
+      "id": "relation/446272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455184",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Текстильщики",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Текстильщики",
+        "name:en": "Tekstilshchiki District",
+        "name:ru": "район Текстильщики",
+        "name:uk": "Район Текстильники",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963126",
+        "wikipedia": "ru:Текстильщики (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7365718,
+          55.7070299
+        ]
+      },
+      "id": "relation/455184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455203",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Люблино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Люблино",
+        "name:en": "Lyublino District",
+        "name:ru": "район Люблино",
+        "name:uk": "Район Любліне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963431",
+        "wikipedia": "ru:Люблино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7773776,
+          55.6742047
+        ]
+      },
+      "id": "relation/455203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455208",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Капотня",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Капотня",
+        "name:en": "Kapotnya District",
+        "name:ru": "район Капотня",
+        "name:uk": "Район Капотня",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963403",
+        "wikipedia": "ru:Капотня (район)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8124186,
+          55.6407289
+        ]
+      },
+      "id": "relation/455208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455222",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Марьино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Марьино",
+        "name:en": "Maryino District",
+        "name:ru": "район Марьино",
+        "name:uk": "Район Мар'їно",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1958176",
+        "wikipedia": "ru:Марьино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7404347,
+          55.6541591
+        ]
+      },
+      "id": "relation/455222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455451",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Печатники",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Печатники",
+        "name:en": "Pechatniki District",
+        "name:ru": "район Печатники",
+        "name:uk": "Район Друкарі",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367394",
+        "wikipedia": "ru:Печатники (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7032139,
+          55.6836825
+        ]
+      },
+      "id": "relation/455451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455460",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Нагатинский Затон",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Нагатинский Затон",
+        "name:be": "Нагацінскі Затон",
+        "name:en": "Nagatinsky Zaton District",
+        "name:ru": "район Нагатинский Затон",
+        "name:uk": "Район Нагатинський Затон",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963453",
+        "wikipedia": "ru:Нагатинский Затон (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6829338,
+          55.6754558
+        ]
+      },
+      "id": "relation/455460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455528",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Москворечье-Сабурово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Москворечье-Сабурово",
+        "name:be": "Маскварэчча-Сабурава",
+        "name:en": "Moskvorechye-Saburovo District",
+        "name:ru": "район Москворечье-Сабурово",
+        "name:uk": "Район Москворіччя-Сабурове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963190",
+        "wikipedia": "ru:Москворечье-Сабурово",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6758576,
+          55.6431566
+        ]
+      },
+      "id": "relation/455528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/455539",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Орехово-Борисово Северное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Орехово-Борисово Северное",
+        "name:be": "Арэхава-Барысава Паўночнае",
+        "name:en": "Orekhovo-Borisovo Severnoye District",
+        "name:ru": "район Орехово-Борисово Северное",
+        "name:uk": "Район Оріхово-Борисове Північне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1962775",
+        "wikipedia": "ru:Орехово-Борисово Северное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7008275,
+          55.6211949
+        ]
+      },
+      "id": "relation/455539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/456807",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Орехово-Борисово Южное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Орехово-Борисово Южное",
+        "name:en": "Orekhovo-Borisovo Yuzhnoye District",
+        "name:ru": "район Орехово-Борисово Южное",
+        "name:uk": "Оріхово-Борисове Південне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2058744",
+        "wikipedia": "ru:Орехово-Борисово Южное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7382447,
+          55.6039726
+        ]
+      },
+      "id": "relation/456807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/531264",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Зябликово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Зябликово",
+        "name:be": "Зяблікава",
+        "name:en": "Zyablikovo District",
+        "name:ru": "район Зябликово",
+        "name:uk": "Район Зябликове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963114",
+        "wikipedia": "ru:Зябликово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7512258,
+          55.6212311
+        ]
+      },
+      "id": "relation/531264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/531287",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Братеево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Братеево",
+        "name:be": "Брацеева",
+        "name:en": "Brateyevo District",
+        "name:ru": "район Братеево",
+        "name:uk": "Район Братєєво",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963015",
+        "wikipedia": "ru:Братеево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7603408,
+          55.632697
+        ]
+      },
+      "id": "relation/531287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/535655",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Нагатино-Садовники",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Нагатино-Садовники",
+        "name:be": "Нагаціна-Садоўнікі",
+        "name:en": "Nagatino-Sadovniki District",
+        "name:ru": "район Нагатино-Садовники",
+        "name:uk": "Район Нагатине-Садівники",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963039",
+        "wikipedia": "ru:Нагатино-Садовники",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.643551,
+          55.6711937
+        ]
+      },
+      "id": "relation/535655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/535662",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Нагорный",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Нагорный район",
+        "name:be": "Нагорны",
+        "name:en": "Nagorny District",
+        "name:ru": "Нагорный район",
+        "name:uk": "Нагірний район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963134",
+        "wikipedia": "ru:Нагорный район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6153353,
+          55.6656371
+        ]
+      },
+      "id": "relation/535662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/535680",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Чертаново Северное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Чертаново Северное",
+        "name:be": "Чартанава Паўночнае",
+        "name:en": "Chertanovo Severnoye District",
+        "name:uk": "Район Чертанове Північне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "population": "110641",
+        "type": "boundary",
+        "wikidata": "Q1962799",
+        "wikipedia": "ru:Чертаново Северное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6040666,
+          55.6329979
+        ]
+      },
+      "id": "relation/535680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/548619",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Выхино-Жулебино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Выхино-Жулебино",
+        "name:be": "раён Выхіна-Жулебіна",
+        "name:en": "Vykhino-Zhulebino District",
+        "name:ru": "район Выхино-Жулебино",
+        "name:uk": "Район Вихіно-Жулебіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q533860",
+        "wikipedia": "ru:Выхино-Жулебино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8259909,
+          55.698332
+        ]
+      },
+      "id": "relation/548619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/574667",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Вешняки",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Вешняки",
+        "name:be": "раён Вешнякі",
+        "name:en": "Veshnyaki District",
+        "name:ru": "район Вешняки",
+        "name:uk": "Район Вешняки",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1019199",
+        "wikipedia": "ru:Вешняки (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8051014,
+          55.7294245
+        ]
+      },
+      "id": "relation/574667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/950639",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бирюлёво Восточное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Бирюлёво Восточное",
+        "name:be": "Бірулева Усходняе",
+        "name:en": "Biryulyovo Vostochnoye District",
+        "name:ru": "район Бирюлёво Восточное",
+        "name:uk": "Район Бірюльово Східне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963176",
+        "wikipedia": "ru:Бирюлёво Восточное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6826125,
+          55.5968121
+        ]
+      },
+      "id": "relation/950639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/950641",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Царицыно",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Царицыно",
+        "name:be": "Царыцана",
+        "name:en": "Tsaritsyno District",
+        "name:ru": "район Царицыно",
+        "name:uk": "Район Царицине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q508433",
+        "wikipedia": "ru:Царицыно (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6560107,
+          55.6256788
+        ]
+      },
+      "id": "relation/950641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/950658",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бирюлёво Западное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Бирюлёво Западное",
+        "name:be": "Бірулева Заходняе",
+        "name:en": "Biryulyovo Zapadnoye District",
+        "name:it": "Birjulëvo Zapadnoe",
+        "name:pt": "Biryulyovo Zapadnoye (distrito)",
+        "name:ru": "район Бирюлёво Западное",
+        "name:uk": "Район Бірюльово Західне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963002",
+        "wikipedia": "ru:Бирюлёво Западное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6387021,
+          55.5910661
+        ]
+      },
+      "id": "relation/950658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/950664",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Чертаново Южное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Чертаново Южное",
+        "name:be": "Чартанава Паўднёвае",
+        "name:en": "Chertanovo Yuzhnoye District",
+        "name:ru": "район Чертаново Южное",
+        "name:uk": "Район Чертанове Південне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963154",
+        "wikipedia": "ru:Чертаново Южное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6030788,
+          55.5882227
+        ]
+      },
+      "id": "relation/950664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/951305",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Чертаново Центральное",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Чертаново Центральное",
+        "name:be": "Чартанава Цэнтральнае",
+        "name:de": "Rajon Tschertanowo Zentral",
+        "name:en": "Chertanovo Tsentralnoye District",
+        "name:it": "Čertanovo Central'noe",
+        "name:pt": "Chertanovo Tsentralnoye (distrito)",
+        "name:uk": "Район Чертанове Центральне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1962823",
+        "wikipedia": "ru:Чертаново Центральное",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6052598,
+          55.6143657
+        ]
+      },
+      "id": "relation/951305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/951334",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ясенево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Ясенево",
+        "name:be": "Ясенева",
+        "name:de": "Rajon Jassenewo",
+        "name:en": "Yasenevo District",
+        "name:ru": "район Ясенево",
+        "name:uk": "Район Ясенів",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2360561",
+        "wikipedia": "ru:Ясенево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5371042,
+          55.615635
+        ]
+      },
+      "id": "relation/951334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/951336",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Тёплый Стан",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Тёплый Стан",
+        "name:en": "Tyoply Stan District",
+        "name:ru": "район Тёплый Стан",
+        "name:uk": "Район Теплий стан",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963160",
+        "wikipedia": "ru:Тёплый Стан (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4881042,
+          55.6288668
+        ]
+      },
+      "id": "relation/951336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/952191",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Коньково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Коньково",
+        "name:en": "Konkovo District",
+        "name:ru": "район Коньково",
+        "name:uk": "Район Конькове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q122788",
+        "wikipedia": "ru:Коньково (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5312556,
+          55.6404695
+        ]
+      },
+      "id": "relation/952191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1250526",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Алексеевский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Алексеевский район",
+        "name:en": "Alexeyevsky District",
+        "name:ru": "Алексеевский район",
+        "name:uk": "Олексіївський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367598",
+        "wikipedia": "ru:Алексеевский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.652847,
+          55.8113202
+        ]
+      },
+      "id": "relation/1250526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1250618",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Свиблово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Свиблово",
+        "name:en": "Sviblovo District",
+        "name:ru": "район Свиблово",
+        "name:uk": "Район Свіблове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2365359",
+        "wikipedia": "ru:Свиблово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6484918,
+          55.8530739
+        ]
+      },
+      "id": "relation/1250618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1250619",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Останкинский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Останкинский район",
+        "name:en": "Ostankinsky District",
+        "name:ru": "Останкинский район",
+        "name:uk": "Останкінський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2704188",
+        "wikipedia": "ru:Останкинский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6150165,
+          55.8281049
+        ]
+      },
+      "id": "relation/1250619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1250724",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Марфино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Марфино",
+        "name:en": "Marfino District",
+        "name:ru": "район Марфино",
+        "name:uk": "Район Марфіно",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367627",
+        "wikipedia": "ru:Марфино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5886811,
+          55.8330658
+        ]
+      },
+      "id": "relation/1250724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1252407",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Марьина Роща",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Марьина Роща",
+        "name:en": "Maryina Roshcha District",
+        "name:ru": "район Марьина Роща",
+        "name:uk": "Район Мар'їна Гай",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2622887",
+        "wikipedia": "ru:Марьина роща (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6119307,
+          55.7966275
+        ]
+      },
+      "id": "relation/1252407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1252424",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бутырский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Бутырский район",
+        "name:en": "Butyrsky District",
+        "name:ru": "Бутырский район",
+        "name:uk": "Бутирський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2362908",
+        "wikipedia": "ru:Бутырский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5935774,
+          55.8136335
+        ]
+      },
+      "id": "relation/1252424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1252448",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Лосиноостровский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Лосиноостровский район",
+        "name:en": "Losinoostrovsky District",
+        "name:ru": "Лосиноостровский район",
+        "name:uk": "Лосиноостровський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367516",
+        "wikipedia": "ru:Лосиноостровский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6974091,
+          55.8783813
+        ]
+      },
+      "id": "relation/1252448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1252465",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Бабушкинский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Бабушкинский район",
+        "name:en": "Babushkinsky District",
+        "name:ru": "Бабушкинский район",
+        "name:uk": "Бабушкінський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367552",
+        "wikipedia": "ru:Бабушкинский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6626067,
+          55.8671398
+        ]
+      },
+      "id": "relation/1252465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255563",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Рязанский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Рязанский район",
+        "name:en": "Ryazansky District",
+        "name:ru": "Рязанский район",
+        "name:uk": "Рязанський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963165",
+        "wikipedia": "ru:Рязанский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7673881,
+          55.7207641
+        ]
+      },
+      "id": "relation/1255563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255576",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Косино-Ухтомский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Косино-Ухтомский",
+        "name:be": "раён Касіно-Ухтомскі",
+        "name:en": "Kosino-Ukhtomsky District",
+        "name:ru": "район Косино-Ухтомский",
+        "name:uk": "Район Косино-Ухтомський",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367534",
+        "wikipedia": "ru:Косино-Ухтомский",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8908371,
+          55.7139289
+        ]
+      },
+      "id": "relation/1255576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255577",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Некрасовка",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Некрасовка",
+        "name:en": "Nekrasovka District",
+        "name:ru": "район Некрасовка",
+        "name:uk": "Район Некрасівка",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2364279",
+        "wikipedia": "ru:Некрасовка (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9367776,
+          55.6972637
+        ]
+      },
+      "id": "relation/1255577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255602",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Новокосино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Новокосино",
+        "name:en": "Novokosino District",
+        "name:eo": "rajono Novokosino",
+        "name:ru": "район Новокосино",
+        "name:uk": "Район Новокосине",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366748",
+        "wikipedia": "ru:Новокосино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8656845,
+          55.7399132
+        ]
+      },
+      "id": "relation/1255602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255680",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Северное Измайлово",
+        "boundary": "administrative",
+        "contact:website": "https://sevizm.mos.ru/",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Северное Измайлово",
+        "name:be": "раён Паўночнае Ізмайлава",
+        "name:en": "Severnoye Izmaylovo District",
+        "name:ru": "район Северное Измайлово",
+        "name:uk": "Район Північне Ізмайлове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366853",
+        "wikipedia": "ru:Северное Измайлово",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7973049,
+          55.8085549
+        ]
+      },
+      "id": "relation/1255680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255704",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Восточное Измайлово",
+        "boundary": "administrative",
+        "contact:website": "https://v-izm.mos.ru/",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Восточное Измайлово",
+        "name:be": "раён Усходняе Ізмайлава",
+        "name:en": "Vostochnoye Izmaylovo District",
+        "name:ru": "район Восточное Измайлово",
+        "name:uk": "Район Східне Ізмайлове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q944276",
+        "wikipedia": "ru:Восточное Измайлово",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.820729,
+          55.7956702
+        ]
+      },
+      "id": "relation/1255704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255775",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Восточный",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Восточный",
+        "name:be": "раён Усходні",
+        "name:en": "Vostochny District",
+        "name:ru": "район Восточный",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626858",
+        "wikipedia": "ru:Восточный (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8446854,
+          55.9069554
+        ]
+      },
+      "id": "relation/1255775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255942",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Замоскворечье",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Замоскворечье",
+        "name:de": "Rajon Samoskworetschje",
+        "name:en": "Zamoskvorechye District",
+        "name:ru": "район Замоскворечье",
+        "name:uk": "Район Замоскворіччя",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q862107",
+        "wikipedia": "ru:Замоскворечье (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6346438,
+          55.734753
+        ]
+      },
+      "id": "relation/1255942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1255987",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Хамовники",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Хамовники",
+        "name:ca": "Districte de Khamóvniki",
+        "name:de": "Bezirk Chamowniki",
+        "name:en": "Khamovniki District",
+        "name:ru": "район Хамовники",
+        "name:uk": "Район Хамовники",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q862100",
+        "wikipedia": "ru:Хамовники (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.576639,
+          55.7303382
+        ]
+      },
+      "id": "relation/1255987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257218",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Красносельский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Красносельский район",
+        "name:en": "Krasnoselsky District",
+        "name:ru": "Красносельский район",
+        "name:uk": "Красносільський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626343",
+        "wikipedia": "ru:Красносельский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6583092,
+          55.7764202
+        ]
+      },
+      "id": "relation/1257218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257403",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Южное Бутово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Южное Бутово",
+        "name:en": "Yuzhnoye Butovo District",
+        "name:it": "Južnoe Butovo",
+        "name:pt": "Yuzhnoye Butovo",
+        "name:ru": "район Южное Бутово",
+        "name:uk": "Район Південне Бутове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963119",
+        "wikipedia": "ru:Южное Бутово",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5297463,
+          55.5385458
+        ]
+      },
+      "id": "relation/1257403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257455",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Северное Бутово",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Северное Бутово",
+        "name:en": "Severnoye Butovo District",
+        "name:ru": "район Северное Бутово",
+        "name:uk": "Район Північне Бутове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963171",
+        "wikipedia": "ru:Северное Бутово",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5702115,
+          55.5680515
+        ]
+      },
+      "id": "relation/1257455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257472",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Можайский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Можайский район",
+        "name:en": "Mozhaysky District",
+        "name:ru": "Можайский район",
+        "name:uk": "Можайський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963027",
+        "wikipedia": "ru:Можайский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3905948,
+          55.7031152
+        ]
+      },
+      "id": "relation/1257472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257484",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Арбат",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Арбат",
+        "name:de": "Bezirk Arbat",
+        "name:en": "Arbat District",
+        "name:ru": "район Арбат",
+        "name:uk": "Район Арбат",
+        "name:zh": "阿尔巴特区",
+        "name:zh-Hans": "阿尔巴特区",
+        "name:zh-Hant": "阿爾巴特區",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q626920",
+        "wikipedia": "ru:Арбат (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5921517,
+          55.7509313
+        ]
+      },
+      "id": "relation/1257484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1257786",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Тверской",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Тверской район",
+        "name:en": "Tverskoy District",
+        "name:ru": "Тверской район",
+        "name:uk": "Тверський район",
+        "name:zh": "特维尔区",
+        "name:zh-Hans": "特维尔区",
+        "name:zh-Hant": "特維爾區",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2710104",
+        "wikipedia": "ru:Тверской район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6050719,
+          55.7697013
+        ]
+      },
+      "id": "relation/1257786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1275551",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Пресненский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Пресненский район",
+        "name:de": "Bezirk Presnensky",
+        "name:en": "Presnensky District",
+        "name:ru": "Пресненский район",
+        "name:uk": "Пресненський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2320761",
+        "wikipedia": "ru:Пресненский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5618451,
+          55.7599586
+        ]
+      },
+      "id": "relation/1275551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1275608",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Таганский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Таганский район",
+        "name:en": "Tagansky District",
+        "name:ru": "Таганский район",
+        "name:uk": "Таганський район",
+        "name:vi": "Taganskiy",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q942798",
+        "wikipedia": "ru:Таганский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6659549,
+          55.740297
+        ]
+      },
+      "id": "relation/1275608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1275627",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Якиманка",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Якиманка",
+        "name:de": "Rajon Jakimanka",
+        "name:en": "Yakimanka District",
+        "name:ru": "район Якиманка",
+        "name:uk": "Район Якиманка",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2704875",
+        "wikipedia": "ru:Якиманка (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6019964,
+          55.7300385
+        ]
+      },
+      "id": "relation/1275627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1278046",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Нижегородский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Нижегородский район",
+        "name:en": "Nizhegorodsky District",
+        "name:ru": "Нижегородский район",
+        "name:uk": "Нижегородський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2008435",
+        "wikipedia": "ru:Нижегородский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7239929,
+          55.7328421
+        ]
+      },
+      "id": "relation/1278046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1278064",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Лефортово",
+        "boundary": "administrative",
+        "contact:website": "https://lefortovo.mos.ru",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Лефортово",
+        "name:de": "Rajon Lefortowo",
+        "name:en": "Lefortovo District",
+        "name:ru": "район Лефортово",
+        "name:uk": "Район Лефортове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1382617",
+        "wikipedia": "ru:Лефортово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7035554,
+          55.7543328
+        ]
+      },
+      "id": "relation/1278064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1278096",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Южнопортовый",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Южнопортовый район",
+        "name:en": "Yuzhnoportovy District",
+        "name:ru": "Южнопортовый район",
+        "name:uk": "Південнопортовий район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963417",
+        "wikipedia": "ru:Южнопортовый район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6804784,
+          55.7145288
+        ]
+      },
+      "id": "relation/1278096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1281209",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Даниловский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Даниловский район",
+        "name:be": "Данілаўскі раён",
+        "name:en": "Danilovsky District",
+        "name:ru": "Даниловский район",
+        "name:uk": "Даниловський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "website": "https://dan.uao.mos.ru/",
+        "wikidata": "Q1963381",
+        "wikipedia": "ru:Даниловский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6369726,
+          55.7068682
+        ]
+      },
+      "id": "relation/1281209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1281220",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Академический",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Академический район",
+        "name:en": "Akademichesky District",
+        "name:ru": "Академический район",
+        "name:uk": "Академічний район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366010",
+        "wikipedia": "ru:Академический район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.576881,
+          55.6895366
+        ]
+      },
+      "id": "relation/1281220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1281263",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Черёмушки",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Черёмушки",
+        "name:en": "Cheryomushki District",
+        "name:ru": "район Черёмушки",
+        "name:uk": "Район Черемушки",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1112926",
+        "wikipedia": "ru:Черёмушки (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5623468,
+          55.6657965
+        ]
+      },
+      "id": "relation/1281263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1281648",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Гагаринский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Гагаринский район",
+        "name:en": "Gagarinsky District",
+        "name:ru": "Гагаринский район",
+        "name:uk": "Гагарінський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1962788",
+        "wikipedia": "ru:Гагаринский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5594031,
+          55.6975086
+        ]
+      },
+      "id": "relation/1281648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1281702",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ломоносовский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Ломоносовский район",
+        "name:en": "Lomonosovsky District",
+        "name:ru": "Ломоносовский район",
+        "name:uk": "Ломоносівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2059063",
+        "wikipedia": "ru:Ломоносовский район (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5336124,
+          55.679074
+        ]
+      },
+      "id": "relation/1281702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292211",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Котловка",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Котловка",
+        "name:en": "Kotlovka District",
+        "name:ru": "район Котловка",
+        "name:uk": "Район Котлівка",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963145",
+        "wikipedia": "ru:Котловка (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5964536,
+          55.6778173
+        ]
+      },
+      "id": "relation/1292211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292286",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Зюзино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Зюзино",
+        "name:en": "Zyuzino District",
+        "name:ru": "район Зюзино",
+        "name:uk": "Район Зюзіне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2008454",
+        "wikipedia": "ru:Зюзино (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5887848,
+          55.6538027
+        ]
+      },
+      "id": "relation/1292286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292499",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Обручевский",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Обручевский район",
+        "name:en": "Obruchevsky District",
+        "name:ru": "Обручевский район",
+        "name:uk": "Обручівський район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1962988",
+        "wikipedia": "ru:Обручевский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5187968,
+          55.6579529
+        ]
+      },
+      "id": "relation/1292499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292679",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Проспект Вернадского",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Проспект Вернадского",
+        "name:en": "Prospekt Vernadskogo District",
+        "name:ru": "район Проспект Вернадского",
+        "name:uk": "Район Проспект Вернадського",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1962831",
+        "wikipedia": "ru:Проспект Вернадского (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4988581,
+          55.6751967
+        ]
+      },
+      "id": "relation/1292679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292731",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Тропарёво-Никулино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "Тропарёво-Никулино",
+        "name:de": "Troparjowo-Nikulino",
+        "name:en": "Troparyovo-Nikulino",
+        "name:ru": "Тропарёво-Никулино",
+        "name:uk": "Тропарево-Нікуліне",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963109",
+        "wikipedia": "ru:Тропарёво-Никулино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4694877,
+          55.6613811
+        ]
+      },
+      "id": "relation/1292731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1292749",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Очаково-Матвеевское",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Очаково-Матвеевское",
+        "name:en": "Ochakovo-Matveyevskoye District",
+        "name:ru": "район Очаково-Матвеевское",
+        "name:uk": "Район Очаково-Матвіївське",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1963371",
+        "wikipedia": "ru:Очаково-Матвеевское",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4485473,
+          55.6917743
+        ]
+      },
+      "id": "relation/1292749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1298976",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Новогиреево",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Новогиреево",
+        "name:be": "раён Новагірэева",
+        "name:en": "Novogireyevo District",
+        "name:ru": "район Новогиреево",
+        "name:uk": "Район Новогірієво",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2366899",
+        "wikipedia": "ru:Новогиреево (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8020175,
+          55.7478732
+        ]
+      },
+      "id": "relation/1298976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1299013",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Перово",
+        "boundary": "administrative",
+        "contact:website": "https://perovo.mos.ru",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Перово",
+        "name:en": "Perovo District",
+        "name:ru": "район Перово",
+        "name:uk": "Район Перово",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2364993",
+        "wikipedia": "ru:Перово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7641564,
+          55.7510805
+        ]
+      },
+      "id": "relation/1299013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1299031",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Соколиная Гора",
+        "boundary": "administrative",
+        "contact:website": "https://sokolinka.mos.ru",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Соколиная Гора",
+        "name:be": "раён Сакаліная Гара",
+        "name:en": "Sokolinaya Gora District",
+        "name:ru": "район Соколиная Гора",
+        "name:uk": "Район Соколина Гора",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2364971",
+        "wikipedia": "ru:Соколиная Гора (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.726746,
+          55.7730151
+        ]
+      },
+      "id": "relation/1299031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1299106",
+        "addr:country": "RU",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Преображенское",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Преображенское",
+        "name:en": "Preobrazhenskoye District",
+        "name:ru": "район Преображенское",
+        "name:uk": "Район Преображенське",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q842239",
+        "wikipedia": "ru:Преображенское (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7223852,
+          55.7962684
+        ]
+      },
+      "id": "relation/1299106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1319060",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Богородское",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Богородское",
+        "name:be": "Раён Багародскае",
+        "name:en": "Bogorodskoye District",
+        "name:ru": "район Богородское",
+        "name:uk": "Район Богородське",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367564",
+        "wikipedia": "ru:Богородское (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7080705,
+          55.8200411
+        ]
+      },
+      "id": "relation/1319060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1319078",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Метрогородок",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Метрогородок",
+        "name:en": "Metrogorodok District",
+        "name:ru": "район Метрогородок",
+        "name:uk": "Район Метромістечко",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2626887",
+        "wikipedia": "ru:Метрогородок",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7275342,
+          55.8437177
+        ]
+      },
+      "id": "relation/1319078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1319142",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Гольяново",
+        "boundary": "administrative",
+        "contact:website": "https://golyanovo.mos.ru",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Гольяново",
+        "name:be": "раён Гальянава",
+        "name:en": "Golyanovo District",
+        "name:ru": "район Гольяново",
+        "name:uk": "Район Гольянове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2365753",
+        "wikipedia": "ru:Гольяново",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7947403,
+          55.828899
+        ]
+      },
+      "id": "relation/1319142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1319245",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Измайлово",
+        "boundary": "administrative",
+        "contact:website": "https://izmaylowo.mos.ru/",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Измайлово",
+        "name:be": "раён Ізмайлава",
+        "name:en": "Izmaylovo District",
+        "name:ru": "район Измайлово",
+        "name:uk": "Район Ізмайлове",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q635860",
+        "wikipedia": "ru:Измайлово (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77426,
+          55.7812388
+        ]
+      },
+      "id": "relation/1319245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1319263",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Ивановское",
+        "boundary": "administrative",
+        "contact:website": "https://ivanovskoe.mos.ru",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Ивановское",
+        "name:be": "раён Іванаўскае",
+        "name:en": "Ivanovskoye District",
+        "name:ru": "район Ивановское",
+        "name:uk": "Район Іванівське",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q2367484",
+        "wikipedia": "ru:Ивановское (район Москвы)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8252173,
+          55.7681881
+        ]
+      },
+      "id": "relation/1319263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1320371",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Крюково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Крюково",
+        "name:be": "раён Крюкава",
+        "name:en": "Kryukovo District",
+        "name:ru": "район Крюково",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q587055",
+        "wikipedia": "ru:Крюково (район)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1824404,
+          55.9736171
+        ]
+      },
+      "id": "relation/1320371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1320424",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Старое Крюково",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Старое Крюково",
+        "name:en": "Staroye Kryukovo District",
+        "name:ru": "район Старое Крюково",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q3831538",
+        "wikipedia": "ru:Старое Крюково",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1998201,
+          55.9804496
+        ]
+      },
+      "id": "relation/1320424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1320510",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Силино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Силино",
+        "name:be": "раён Сiлiна",
+        "name:en": "Silino District",
+        "name:ru": "район Силино",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q3960539",
+        "wikipedia": "ru:Силино (район)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1684146,
+          56.0008304
+        ]
+      },
+      "id": "relation/1320510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1320566",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Матушкино",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Матушкино",
+        "name:be": "раён Матушкiна",
+        "name:en": "Matushkino District",
+        "name:ru": "район Матушкино",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q3831503",
+        "wikipedia": "ru:Матушкино",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2051449,
+          56.0027997
+        ]
+      },
+      "id": "relation/1320566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1320570",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Савёлки",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "name": "район Савёлки",
+        "name:en": "Savyolki District",
+        "name:ru": "район Савёлки",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q3831532",
+        "wikipedia": "ru:Савёлки",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2389007,
+          55.9856668
+        ]
+      },
+      "id": "relation/1320570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1693596",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Бекасово",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9581039,
+          55.4139241
+        ]
+      },
+      "id": "relation/1693596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1703093",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Троицк",
+        "official_status": "ru:городской округ",
+        "type": "boundary",
+        "wikipedia": "ru:Троицк (Москва)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3476673,
+          55.5018615
+        ]
+      },
+      "id": "relation/1703093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1703095",
+        "addr:country": "RU",
+        "addr:region": "Москва",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Щербинка",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5271097,
+          55.4829569
+        ]
+      },
+      "id": "relation/1703095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2092922",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "район Вороново",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "wikidata": "Q131671178",
+        "wikipedia": "ru:Вороново (район)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1825286,
+          55.2723658
+        ]
+      },
+      "id": "relation/2092922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2092925",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Краснопахорский район",
+        "official_status": "ru:муниципальный округ",
+        "type": "boundary",
+        "wikipedia": "ru:Краснопахорский район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.261639,
+          55.406064
+        ]
+      },
+      "id": "relation/2092925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2162195",
+        "admin_level": "8",
+        "alt_name": "муниципальный округ Басманный",
+        "boundary": "administrative",
+        "description": "район — административно-территориальная единица; муниципальный округ — тип муниципального образования (с 1 июля 2012)",
+        "loc_name": "Басманка",
+        "name": "Басманный район",
+        "name:ca": "Districte de Basmanni",
+        "name:de": "Rajon Basmanny",
+        "name:en": "Basmanny District",
+        "name:ru": "Басманный район",
+        "name:uk": "Басманний район",
+        "official_status": "ru:внутригородская территория города федерального значения",
+        "type": "boundary",
+        "wikidata": "Q1669860",
+        "wikipedia": "ru:Басманный район",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6706985,
+          55.7663979
+        ]
+      },
+      "id": "relation/2162195"
+    }
+  ]
+}
